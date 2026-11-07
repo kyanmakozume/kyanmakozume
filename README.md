@@ -10,13 +10,11 @@
   <tr>
     <td align="center" width="280">
       <p>
-        <br><br>
         ֹ  ⑅᜔  ׄ ݊ ݂ Thank you, <a href="https://github.com/pt-everypony" target="_blank">@pt-everypony</a> , <a href="https://github.com/pt-ship-nominations" target="_blank">@pt-ship-nominations</a> , <a href="https://github.com/Ponytowns-rewards" target="_blank">@Ponytowns-rewards</a>! .   ۪ ֹ ᮫
       </p>
-      <br>
     </td>
     <td align="center">
-      <img src="https://64.media.tumblr.com/7ff782a35ac73e25934a172779b81d18/e11f6cdd0bfbb54f-4f/s640x960/a4d4fe4f17daec5ceb1cd80a536f4893ba0ec113.pnj" width="280">
+      <img src="https://64.media.tumblr.com/7ff782a35ac73e25934a172779b81d18/e11f6cdd0bfbb54f-4f/s640x960/a4d4fe4f17daec5ceb1cd80a536f4893ba0ec113.pnj" width="160">
       <br>
       <sub>♡ 002</sub>
     </td>
